@@ -14,3 +14,5 @@
 **berekeningdutycycle.vi** = Graden omzetten naar dutycycle. 
 
 **wiskunde.vi** = Programma met wiskunde geïmplementeerd.(Nog niet getest)
+
+**inv kin.vi** = Deze subVI wordt gebruikt om de gegevens van de Deltarobot in te voeren(lange arm, korte arm, platform,...).
