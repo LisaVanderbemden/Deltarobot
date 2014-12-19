@@ -6,6 +6,8 @@
 
 **Servo berekening.vi** = Berekening van de dutycycle en frequentie.Deze subVI wordt aangeroepen in Main.VI.
 
+**Demo =** http://youtu.be/dF81HX-Wyzg?list=UUNbzHYhRnnWQ4kQRG5y_mZA
+
 
 ##Servomotoren aansturen met wiskunde: 
 
